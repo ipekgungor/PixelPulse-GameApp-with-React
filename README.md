@@ -27,11 +27,11 @@ To run this project locally, follow these steps:
    ```bash
    cd PixelPulse-GameApp-with-React.git
 3. Install Dependencies:
-  ```bash
-  npm install
+   ```bash
+   npm install
 4. Run the Application:
-  ```bash
-  npm start
+   ```bash
+   npm start
 
 ## Contact
 - **Developer:** İpek Güngör
