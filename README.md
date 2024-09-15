@@ -33,6 +33,7 @@ To run this project locally, follow these steps:
   ```bash
   npm install
 
+
 ## Contact
 - **Developer:** İpek Güngör
 - **Email:** ipekgungor2001@gmail.com
