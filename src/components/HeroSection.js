@@ -6,7 +6,7 @@ import "./HeroSection.css";
 const HeroSection = () => {
   return (
     <div className="hero-container">
-      <h1>EPICPLAY STUDIOS</h1>
+      <h1>PIXELPULSE STUDIOS</h1>
       <p>JOIN THE FUN</p>
       <div className="hero-btns">
         <Button

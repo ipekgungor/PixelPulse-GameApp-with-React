@@ -33,10 +33,10 @@ function Footer() {
         <div class="social-media-wrap">
           <div class="footer-logo">
             <Link to="/" className="social-logo">
-              EpicPlay Studios
+              PixelPulse Studios
             </Link>
           </div>
-          <small class="website-rights">EpicPlay Studios © 2024</small>
+          <small class="website-rights">PixelPulse Studios © 2024</small>
           <div class="social-icons">
             <Link
               class="social-icon-link facebook"
