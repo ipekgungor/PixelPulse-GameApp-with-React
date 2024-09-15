@@ -32,6 +32,9 @@ To run this project locally, follow these steps:
 4. Run the Application:
    ```bash
    npm start
+5. Other Packages:
+   ```bash
+   npm install react-router-dom
 
 ## Contact
 - **Developer:** İpek Güngör
