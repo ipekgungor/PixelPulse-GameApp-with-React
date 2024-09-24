@@ -6,7 +6,7 @@ PixelPulse Studio is a web application that provides information about games and
 
 - **Companies**: List of game providers and their information.
 - **Games**: A list of various games and their details.
-- **SignUp**: It displays sşgn-up screen.
+- **SignUp**: It displays sign-up screen.
 - **It has a responsive design suitable for mobile and desktop.**
 
 ## Requirements
