@@ -28,13 +28,10 @@ To run this project locally, follow these steps:
    cd PixelPulse-GameApp-with-React
 3. Install Dependencies:
    ```bash
-   npm install
+   npm install react-router-dom
 4. Run the Application:
    ```bash
    npm start
-5. Other Packages:
-   ```bash
-   npm install react-router-dom
 
 ## Contact
 - **Developer:** İpek Güngör
